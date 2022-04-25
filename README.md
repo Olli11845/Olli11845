@@ -3,4 +3,5 @@
 currently learning coding at coding-bootcamp-europe
 
 About me:
-addicted to flying, living NRW
+
+addicted to flying, living in NRW
