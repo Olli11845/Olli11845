@@ -1,4 +1,4 @@
-# Oliver Rosshoff
+# Oliver Roßhoff
 
 currently learning coding at coding-bootcamp-europe
 
